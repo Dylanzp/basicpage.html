@@ -1,0 +1,13 @@
+/*this will set the paragraphs color*/ 
+p{
+color:red
+}
+<!--This will set the websites background color--!>
+body{
+	background-color: lime;
+}
+/*This will set the h1 to be center and the color to be red*/
+h1{
+	text-align: center;
+color: Yellow;
+}	
